@@ -13,7 +13,7 @@ ___
 Settings
 ---
 
-Head to the settings under your profile in the bottom left corner. Head to the file [Settings.md](settings.md) to see my exact settings or how to personalize your settings.
+Head to the settings under your profile in the bottom left corner. Head to the file [Settings.md](https://github.com/asmbelly/Claude-introduction-and-usage-guide/blob/main/Settings.md) to see my exact settings or how to personalize your settings.
 
 ___
 
