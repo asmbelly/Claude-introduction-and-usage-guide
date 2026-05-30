@@ -33,4 +33,4 @@ Claude Skills are reusable, modular instruction packages that teach Claude how t
 
 Instead of having to copy-paste text and manually do all the hard labor, Claude skills aim to automake that workflow to provide a better useer experience.
 
-Check out all of my Claude skills instructions in 
+Check out all of my Claude skills instructions in [skills](https://github.com/asmbelly/Claude-introduction-and-usage-guide/tree/main/skills).
