@@ -22,5 +22,5 @@ TONE: No softening language. No "great question." No filler. Treat me like someo
 ## Connections
 Connections > Customize  
 There, click on Skills, Create new skill, then upload a skill.  
-Upload the Skill files (.skill) from 
+Upload the Skill files (.skill) from [skills](https://github.com/asmbelly/Claude-introduction-and-usage-guide/tree/main/skills).
 
